@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6f4fc9b8a8bfdb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient_Boosting_Machine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyperparameter_Optimization.md",
+                "file": "Gradient_Boosting_Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hyperparameter_Optimization.md",
+                "file": "Gradient_Boosting_Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyperparameter_Optimization.md"
+                "file": "Gradient_Boosting_Machine.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a163757209dbeab2",
+  "active": "d6f4fc9b8a8bfdb4",
   "lastOpenFiles": [
-    "Hyperparameter_Optimization.md"
+    "Hyperparameter_Optimization.md",
+    "Gradient_Boosting_Machine.md"
   ]
 }
